@@ -1,0 +1,46 @@
+{
+  "conexiones": [
+
+    {"origen": "Portal Soledad", "destino": "Pacho Galán", "tiempo": 5, "tipo": "troncal"},
+    {"origen": "Pacho Galán", "destino": "Pedro Ramayá", "tiempo": 4, "tipo": "troncal"},
+    {"origen": "Pedro Ramayá", "destino": "Joaquín Barrios Polo", "tiempo": 3, "tipo": "troncal"},
+    {"origen": "Joaquín Barrios Polo", "destino": "La Arenosa", "tiempo": 4, "tipo": "troncal"},
+    {"origen": "La Arenosa", "destino": "La Ocho", "tiempo": 3, "tipo": "troncal"},
+    {"origen": "La Ocho", "destino": "Chiquinquirá", "tiempo": 3, "tipo": "troncal"},
+    {"origen": "Chiquinquirá", "destino": "La Catedral", "tiempo": 3, "tipo": "troncal"},
+    {"origen": "La Catedral", "destino": "Parque Cultural del Caribe", "tiempo": 4, "tipo": "troncal"},
+
+
+    {"origen": "Joe Arroyo", "destino": "Esthercita Forero", "tiempo": 3, "tipo": "troncal"},
+    {"origen": "Esthercita Forero", "destino": "Alfredo Correa de Andreis", "tiempo": 3, "tipo": "troncal"},
+    {"origen": "Alfredo Correa de Andreis", "destino": "La Catedral", "tiempo": 4, "tipo": "troncal"},
+    {"origen": "La Catedral", "destino": "Barrio Abajo", "tiempo": 3, "tipo": "troncal"},
+
+
+    {"origen": "La Catedral", "destino": "Joe Arroyo", "tiempo": 5, "tipo": "troncal"},
+
+
+    {"origen": "Los Robles", "destino": "Portal Soledad", "tiempo": 12, "tipo": "alimentador", "transbordo": 1},
+    {"origen": "Villa Sol", "destino": "Portal Soledad", "tiempo": 10, "tipo": "alimentador", "transbordo": 1},
+    {"origen": "Manuela Beltrán", "destino": "Portal Soledad", "tiempo": 11, "tipo": "alimentador", "transbordo": 1},
+    {"origen": "Ciudadela Metropolitana", "destino": "Portal Soledad", "tiempo": 13, "tipo": "alimentador", "transbordo": 1},
+    {"origen": "Villa Karla", "destino": "Portal Soledad", "tiempo": 14, "tipo": "alimentador", "transbordo": 1},
+
+
+    {"origen": "Carrizal", "destino": "Pedro Ramayá", "tiempo": 15, "tipo": "alimentador", "transbordo": 1},
+    {"origen": "Ciudadela", "destino": "Pedro Ramayá", "tiempo": 14, "tipo": "alimentador", "transbordo": 1},
+
+
+    {"origen": "Miramar", "destino": "Joe Arroyo", "tiempo": 18, "tipo": "alimentador", "transbordo": 1},
+    {"origen": "Los Andes", "destino": "Joe Arroyo", "tiempo": 16, "tipo": "alimentador", "transbordo": 1},
+    {"origen": "Carrera 38", "destino": "Joe Arroyo", "tiempo": 14, "tipo": "alimentador", "transbordo": 1},
+    {"origen": "Buenavista", "destino": "Joe Arroyo", "tiempo": 20, "tipo": "alimentador", "transbordo": 1},
+
+
+    {"origen": "Gran Malecón", "destino": "La Catedral", "tiempo": 12, "tipo": "alimentador", "transbordo": 1},
+    {"origen": "Vía 40", "destino": "La Catedral", "tiempo": 10, "tipo": "alimentador", "transbordo": 1},
+    {"origen": "Prado", "destino": "La Catedral", "tiempo": 9, "tipo": "alimentador", "transbordo": 1},
+    {"origen": "Paraíso", "destino": "La Catedral", "tiempo": 11, "tipo": "alimentador", "transbordo": 1}
+
+  ]
+}
